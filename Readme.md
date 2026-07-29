@@ -1,6 +1,5 @@
 # ADAS vs HDV impact on platoons
-This reposit contains code to detect platoons in the TGSIM I294 L1 dataset as presented in the article "Identifying platoons in traffic: Towards an assessment of ACC
-platoon impacts". Data can be downloaded at https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data . <br>
+This reposit contains code to detect platoons in the TGSIM I294 L1 dataset. Data can be downloaded at https://data.transportation.gov/Automobiles/Third-Generation-Simulation-Data-TGSIM-I-294-L1-Tr/7zjf-a4zf/about_data . <br>
 
 
 ## File structure
